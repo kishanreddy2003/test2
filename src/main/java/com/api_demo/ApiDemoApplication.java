@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ApiDemoApplication {
 
 	public static void main(String[] args) {
+		int x=100;
 		SpringApplication.run(ApiDemoApplication.class, args);
 	}
 
