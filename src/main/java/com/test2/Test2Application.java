@@ -11,6 +11,7 @@ public class Test2Application {
 		String name="kishan";
 		System.out.println("Hello world");
 		System.out.println("Welcome Prabhat");
+		System.out.println("Welcome to Kishan);
 		int x=200;
 		String name="prabaht";
 		SpringApplication.run(Test2Application.class, args);
